@@ -1,0 +1,10 @@
+
+
+problem:-
+
+writte a program that takes the user's age and print the ticket price based on the following rules...
+
+60 years and above = 8$
+18 to 59 years = 15$
+5 to 17 years = 10$
+Below 5 years = Free 
